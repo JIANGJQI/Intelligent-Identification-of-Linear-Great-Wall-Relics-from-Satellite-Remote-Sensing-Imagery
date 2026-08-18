@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local data and outputs
+data/
+weights/
+outputs/
+Pweight/
+Save_Path/
+dataset_change/
+dataset_split/
+dataset_crosssat_test/
+badaling_test/
+??*/
+
+# Large model/data artifacts
+*.pth
+*.pt
+*.ckpt
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.bin
+*.index
+*.pyd
+
+# IDE/runtime metadata
+.idea/
+.claude/
+.DS_Store
