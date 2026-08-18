@@ -3,16 +3,15 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Local data and outputs
-data/
-weights/
-outputs/
-Pweight/
-Save_Path/
-dataset_change/
-dataset_split/
-dataset_crosssat_test/
-badaling_test/
-??*/
+/data/
+/weights/
+/outputs/
+/Pweight/
+/Save_Path/
+/dataset_change/
+/dataset_split/
+/dataset_crosssat_test/
+/badaling_test/
 
 # Large model/data artifacts
 *.pth
